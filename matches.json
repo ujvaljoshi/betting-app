@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "home": "Manchester United",
+      "away": "Liverpool",
+      "time": "12.30",
+      "odds": {
+        "win": 1.12,
+        "draw": 2.5,
+        "loss": 3
+      }
+    },
+    {
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "time": "12.30",
+      "odds": {
+        "win": 1.12,
+        "draw": 2.5,
+        "loss": 3
+      }
+    },
+    {
+      "home": "Wolves",
+      "away": "Watford",
+      "time": "12.30",
+      "odds": {
+        "win": 1.12,
+        "draw": 2.5,
+        "loss": 3
+      }
+    },
+    {
+      "home": "Chelsea",
+      "away": "Everton",
+      "time": "12.30",
+      "odds": {
+        "win": 1.12,
+        "draw": 2.5,
+        "loss": 3
+      }
+    },
+    {
+      "home": "Newcastle",
+      "away": "Sunderland",
+      "time": "12.30",
+      "odds": {
+        "win": 1.12,
+        "draw": 2.5,
+        "loss": 3
+      }
+    }
+  ]
+}
